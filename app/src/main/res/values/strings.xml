@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UltaSimpleAppsLauncher</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="btn1">Magic Lifes Counter</string>
+    <string name="btn2">Magic Card List</string>
+</resources>
